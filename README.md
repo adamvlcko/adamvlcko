@@ -11,4 +11,4 @@
 - 🐍 2022-2024 Python
 - ☕ 2024+ Java comeback
 
-❤️L.L.
+❤️L
